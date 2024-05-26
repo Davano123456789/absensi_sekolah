@@ -1,0 +1,49 @@
+.wrap-profile{
+    padding: 2rem;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    height: 70vh;
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+}
+.img-profile{
+    text-align: center;
+}
+.link-data a{
+    text-decoration: none;
+    color:  rgb(0, 0, 0);
+    margin-right: 2rem;
+    font-weight: 600;
+    padding-bottom: 0.5rem;
+}
+
+.active-data{
+    
+    border-bottom: 2px solid rgb(0, 31, 167);
+
+}
+.img-profile img{
+    width: 50%;
+
+    border-radius: 50%;
+}
+.name-teacher{
+    text-align: center;
+    margin-top: 1rem;
+}
+.wrap-fil p{
+    margin-bottom: 3px;
+}
+.wrap-data{
+    background-color: rgb(255, 255, 255);
+    height: 70vh;
+    border-radius: 20px;
+   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.wrap-fil{
+    text-align: center;
+    margin-top: 1.5rem;
+    background-color: rgba(139, 160, 255, 0.438);
+    padding: 0.3rem 1rem;
+    border-radius: 20px;
+
+}
